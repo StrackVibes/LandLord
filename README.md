@@ -2,7 +2,7 @@
 # 🌱 LandLord: The Path of Least Resistance
 
 **I’m not lazy; I just like to work smart, not hard.**  
-I whipped up this little Python script in the comfort of my AC to avoid a summer-yard-rewiring marathon. It’s not perfect (the wire has dead spots and the mower sometimes needs a nudge), but hey—until I muster the courage (or rent a sun hat), this works well enough.
+I whipped up this little Python script in the comfort of my AC to avoid a summer-yard-rewiring marathon. It’s not perfect (the wire has dead spots and the mower sometimes needs a nudge), but hey—until I muster the courage (or get a base tan lol), this works well enough.
 
 ---
 
