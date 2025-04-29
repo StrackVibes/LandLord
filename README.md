@@ -22,14 +22,14 @@ I whipped up this little Python script in the comfort of my AC to avoid a summer
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/StrackVi es/LandLord.git
+   git clone https://github.com/StrackVibes/LandLord.git
    cd LandLord
    ```
 2. Install dependencies:
    ```bash
    pip install pyworxcloud
    ```
-3. Update `LandLord2.py` with your **EMAIL**, **PASSWORD**, and **SERIAL**.
+3. Update `LandLord.py` with your **EMAIL**, **PASSWORD**, and **SERIAL**.
 
 ---
 
