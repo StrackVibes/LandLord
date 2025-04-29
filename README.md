@@ -42,12 +42,6 @@ Slack integration? Maybe later—your app already yells when things break.
 
 ---
 
-## ⚡ Why “LandLord”?
-
-Because it *lands* your mower when the wire goes AWOL, and it won’t leave it there—no squatter rights on my lawn!
-
----
-
 ## 📋 TODO
 
 - Automate zone nudges (if only the mower accepted more commands…)  
