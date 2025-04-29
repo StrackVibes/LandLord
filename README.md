@@ -36,7 +36,7 @@ I whipped up this little Python script in the comfort of my AC to avoid a summer
 ## 🎉 Usage
 
 ```bash
-chmod +x LandLord2.py
+chmod +x LandLord.py
 ./LandLord2.py
 ```
 
