@@ -4,7 +4,9 @@
 **I’m not lazy; I just like to work smart, not hard.**  
 I whipped up this little Python script in the comfort of my AC to avoid a summer-yard-rewiring marathon. It’s not perfect (the wire has dead spots and the mower sometimes needs a nudge), but hey—until I muster the courage (or get a base tan lol), this works well enough.
 
-![My Grass Ninja](https://i.ibb.co/fzbHhc9Y/PXL-20250429-202353689.jpg)
+![My Grass Ninja](https://github.com/user-attachments/assets/10fd3444-5409-43d8-b1d9-533b7a526e55)
+
+
 ---
 
 ## 🚀 What It Does
